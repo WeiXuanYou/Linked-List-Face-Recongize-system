@@ -1,0 +1,1 @@
+g++ main.cpp -std=c++17 `pkg-config --cflags --libs opencv4` -lm -Wall -o main
